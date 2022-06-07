@@ -8,7 +8,7 @@
 
 	<link rel="stylesheet" href="styles/main.css">
 	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
-	<title>ToDo App</title>
+	<title>ToDo - Главная</title>
 </head>
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap');
