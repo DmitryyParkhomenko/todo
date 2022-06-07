@@ -104,7 +104,7 @@
 
 <footer>
 	<h2>ToDo</h2>
-	<span>Contact: </span><a mailto:alexshulz94@gmail.com>alexshulz94@gmail.com</a>
+	<span>Contact: </span><a href="mailto:alexshulz94@gmail.com">alexshulz94@gmail.com</a>
 </footer>
 
 <script src="scripts/main.js"></script>
